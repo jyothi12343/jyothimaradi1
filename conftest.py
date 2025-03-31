@@ -2,7 +2,7 @@ import requests
 import pytest
 
 # Google Chat Webhook URL (replace with your actual webhook URL)
-WEBHOOK_URL = "https://chat.googleapis.com/v1/spaces/AAAAznSM5qI/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=1JwGPUhtm-r_8bdpveyrjrcQkiDylhlOL3655L61khs"
+WEBHOOK_URL = "https://chat.googleapis.com/v1/spaces/AAAArcUyGPU/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=PRJJ35aM8UQ4mG_HbuOtJtZ-71yXphPAfjSQ_Ll21eA"
 
 # List to store the test case summaries
 test_summary = []
